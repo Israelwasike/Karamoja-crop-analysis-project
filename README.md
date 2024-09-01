@@ -4,7 +4,7 @@ In the Karamoja region, NGOs face challenges in assessing agricultural productiv
 ### Project structure
 **data/** - Contains all the datasets used in the project. <br>
 **notebooks/** - Jupyter notebooks used for data analysis and cleaning. <br>
-**dashboard/** - Files related to the Tableau dashboard.
+**Presentation/** - Files related to the Tableau dashboard.
 ### Installation
 To set up the project locally, follow these steps: <br>
 * Clone the repository. <br>
