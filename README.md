@@ -12,7 +12,7 @@ To set up the project locally, follow these steps: <br>
 * Ensure you have Tableau installed for dashboard visualization. <br>
 ### Usage
 Guide on how to use the project, including running analyses, generating visualizations, or using the dashboard.<br>
-* To analyze crop yields, open the relevant Jupyter notebook in the ***notebooks/*** directory and run the cells. To view the interactive dashboard, open the Tableau link :https://public.tableau.com/app/profile/israel.wasike/viz/Karamojacropyieldinsights/CropYieldInsightsSorghumandMaizeinKaramoja?publish=yes
+* To analyze crop yields, open the relevant Jupyter notebook in the `notebooks/` directory and run the cells. To view the interactive dashboard, open [Tableau public](https://public.tableau.com/app/profile/israel.wasike/viz/Karamojacropyieldinsights/CropYieldInsightsSorghumandMaizeinKaramoja?publish=yes) 
 * **District Crop Yield Population Data:** Contains information on crop yields and population by district.
 * **Subcounty Crop Yield Population Data:** Contains information on crop yields and population by sub-county. 
 ### Data
