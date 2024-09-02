@@ -17,7 +17,7 @@ Guide on how to use the project, including running analyses, generating visualiz
 * **Subcounty Crop Yield Population Data:** Contains information on crop yields and population by sub-county. 
 ### Data
 Information about the datasets used, including their sources and any preprocessing steps.<br>
-The project uses crop yield data from the Uganda Karamoja District region for the year 2017. Data was cleaned and merged using Python, and spatial files were loaded and viewd in Tableau Desktop
+The project uses crop yield data from the Uganda Karamoja District region for the year 2017. Data was cleaned using Python, and spatial files were loaded and viewd in Tableau Desktop
 ### Objectives
 The goal of this analysis is to develop an interactive visualization tool that provides insights into crop yields across different districts and sub-counties in Karamoja for the 2017 crop season. By analyzing and visualizing the data, we aim to:<br>
 1. **Identify Patterns:** Understand the distribution of crop yields across various regions.<br>
